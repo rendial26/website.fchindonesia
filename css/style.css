@@ -83,7 +83,7 @@
        
     height: 40px; /* Atur tinggi gambar */
         /* Jika hanya ingin mengatur lebar atau tinggi saja, cukup tentukan salah satu saja */
-        /* Contoh: Jika  mengatur lebar tetapi tinggi mengikuti proporsinya, cukup atur width dan biarkan height menjadi auto */
+        /* Contoh: Jika ingin mengatur lebar tetapi tinggi mengikuti proporsinya, cukup atur width dan biarkan height menjadi auto */
     }
     
 .navbar .dropdown-toggle::after {
