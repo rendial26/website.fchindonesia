@@ -78,10 +78,10 @@
 .custom-image {
     
    
-    width: 200px; /* Atur lebar gambar */
+    width: 150px; /* Atur lebar gambar */
         
        
-    height: 55px; /* Atur tinggi gambar */
+    height: 38px; /* Atur tinggi gambar */
         /* Jika hanya ingin mengatur lebar atau tinggi saja, cukup tentukan salah satu saja */
         /* Contoh: Jika ingin mengatur lebar tetapi tinggi mengikuti proporsinya, cukup atur width dan biarkan height menjadi auto */
     }
