@@ -77,7 +77,7 @@
 /* Atur ukuran gambar sesuai keinginan */
 .custom-image {
     
-    margin: 5px;
+    margin: 10px;
     width: 150px; /* Atur lebar gambar */
         
        
@@ -369,7 +369,7 @@
 
 /*** Footer ***/
 .footer {
-    background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, .9)), url(../img/carousel-bg-1.jpg) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, .9)),center center no-repeat;
     background-size: cover;
 }
 
