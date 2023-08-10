@@ -357,7 +357,7 @@
     position: fixed;
     bottom: 40px;
     right: 100px;
-    background-color: transparent; /* Remove background color */
+    background-color: transparent; /* Remove background */
     z-index: 9999;
     text-decoration: none;
 }
