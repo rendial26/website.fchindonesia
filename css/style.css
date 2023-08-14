@@ -437,3 +437,17 @@
     padding-right: 0;
     border-right: none;
 }
+
+/*ukuran foto*/
+.team-item .position-relative {
+        width: 100%; /* Mengatur lebar gambar menjadi 100% dari kontainer */
+        height: 0;
+        padding-bottom: 100%; /* Mengatur tinggi gambar sesuai dengan lebar untuk menjaga aspek ratio */
+    }
+
+    .team-item .position-relative img {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* Memastikan gambar penuh pada kontainer tanpa merusak aspek ratio */
+    }
